@@ -1,1 +1,29 @@
-date taken: 10/3/2025
+datetaken: 10/3/2025
+DSC01500.JPG: {name: "Football Stadium Lights", tags: ["lights", "football", "stadium", "outdoor"]}
+DSC01501.JPG: {name: "Football Stadium Lights", tags: ["lights", "football", "stadium", "outdoor"]}
+DSC01502.JPG: {name: "Football Field 30 Yard Marker", tags: ["marker", "football", "field", "outdoor"]}
+DSC01503.JPG: {name: "Football Field 30 Yard Marker", tags: ["marker", "football", "field", "outdoor"]}
+DSC01504.JPG: {name: "Football Field Metal Drain", tags: ["drain", "metal", "football", "field", "outdoor"]}
+DSC01505.JPG: {name: "Small Gravel Path Outside", tags: ["path", "gravel", "small", "outdoor"]}
+DSC01506.JPG: {name: "Outside Fire Hydrant", tags: ["fire", "hydrant", "outdoor"]}
+DSC01507.JPG: {name: "Football Field Goal", tags: ["football", "field", "goal", "outdoor"]}
+DSC01508.JPG: {name: "Football Stadium Lights with Sunset", tags: ["lights", "football", "stadium", "outdoor", "sunset]}
+DSC01510.JPG: {name: "Football Field 20 Yard Marker", tags: ["marker", "football", "field", "outdoor"]}
+DSC01511.JPG: {name: "Football Field 20 Yard Marker", tags: ["marker", "football", "field", "outdoor"]}
+DSC01512.JPG: {name: "Football Field 20 Yard Line", tags: ["line", "football", "field", "outdoor"]}
+DSC01513.JPG: {name: "Football Referee Hands Up", tags: ["referee", "football", "hands", "up", "outdoor"]}
+DSC01514.JPG: {name: "Football Referee", tags: ["referee", "football", "outdoor"]}
+DSC01515.JPG: {name: "Football Players Getting Set", tags: ["players", "football", "set", "outdoor"]}
+DSC01516.JPG: {name: "Trash on Concrete by Metal Fence", tags: ["trash", "concrete", "metal", "fence", "outdoor"]}
+DSC01517.JPG: {name: "Metal Fence Pole in Concrete", tags: ["pole", "concrete", "metal", "fence", "outdoor"]}
+DSC01518.JPG: {name: "Football Field Before Game", tags: ["football", "field", "before", "game", "outdoor"]}
+DSC01519.JPG: {name: "Football Field Scoreboard Tied Game", tags: ["football", "field", "scoreboard", "tied", "game", "outdoor"]}
+DSC01520.JPG: {name: "Football Players Getting Set", tags: ["players", "football", "set", "outdoor"]}
+DSC01521.JPG: {name: "Football Field White Line Corner", tags: ["corner", "football", "line", "white", "field", "outdoor"]}
+DSC01522.JPG: {name: "Daytime Cell Tower", tags: ["cell", "tower", "daytime", "day", "outdoor"]}
+DSC01523.JPG: {name: "The Moon", tags: ["moon"]}
+DSC01524.JPG: {name: "The Moon", tags: ["moon"]}
+DSC01525.JPG: {name: "Football Referee", tags: ["referee", "football", "outdoor"]}
+DSC01526.JPG: {name: "Football Field Game Clock", tags: ["clock", "football", "field", "outdoor"]}
+DSC01529.JPG: {name: "Football Players Walking on Field", tags: ["players", "football", "walking", "field", "outdoor"]}
+DSC01530.JPG: {name: "Football Players at Set", tags: ["players", "football", "set", "outdoor"]}
