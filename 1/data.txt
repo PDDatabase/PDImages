@@ -1,4 +1,5 @@
 datetaken: 10/3/2025
+thum: DSC01500.JPG
 DSC01500.JPG: {name: "Football Stadium Lights", tags: ["lights", "football", "stadium", "outdoor"]}
 DSC01501.JPG: {name: "Football Stadium Lights", tags: ["lights", "football", "stadium", "outdoor"]}
 DSC01502.JPG: {name: "Football Field 30 Yard Marker", tags: ["marker", "football", "field", "outdoor"]}
